@@ -6,8 +6,11 @@
 .container{
     height: 100v;
     width: 100%;
-    background-image: url();
+    background-image: url("westleywaythere/truck.jpeg");
     background-size: cover;
     background-position: center;
     position:relative;
+}
+
+.header__subtitle {
 }
